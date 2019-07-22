@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ejercicios Android</string>
+    <string name="titulo">HOLA</string>
+    <string name="pablomonteserin">Pablo Monteserín</string>
+    <string name="menu1">Acerca de mí</string>
+    <string name="menu2">Galería de videos</string>
+    <string name="menu3">Galería de fotos</string>
+    <string name="menu4">Contacto</string>
+</resources>
