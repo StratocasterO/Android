@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<libros>
+    <libro>
+        <titulo>Viaje la luna</titulo>
+        <autor tipo="bueno" nombre="Monteserín" />
+    </libro>
+    <libro>
+        <titulo>Buscando a Wally</titulo>
+        <autor tipo="malo" nombre="García" />
+    </libro>
+</libros>

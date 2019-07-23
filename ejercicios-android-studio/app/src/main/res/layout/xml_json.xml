@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.pablomonteserin.XMLJSON">
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="irALeerXML"
+        android:text="Leer XML"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="irAParsearXML"
+        android:text="Parsear XML"
+        />
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="irAParsearJSON"
+        android:text="Parsear JSON"
+        />
+
+
+    <Button
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:onClick="irAPeticionBasica"
+        android:text="Petición por GET"
+    />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="irAAsyncTaskPorPOST"
+        android:text="Petición por POST"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="irAHacerGetRequest"
+        android:text="Petición por GET con Retrofit"
+        />
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="irAHacerPostRequest"
+        android:text="Petición por POST con Retrofit"
+        />
+
+
+
+    <Button
+        android:id="@+id/button344"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="irASubirImagen"
+        android:text="Subir imagen al servidor" />
+</LinearLayout>

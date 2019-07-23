@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/monty/.android/build-cache/76070c8f17b4df217bcebbccb2a2fa921f459b86/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8040d53ecd4bd895360eafdc25e1c1cc9479e6aa">
+        <dex dex="/home/monty/Desktop/ejercicios/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ac188dfc4e64a4732b267b9246550c81c51dd547/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/monty/.android/build-cache/fd0bda5913fc2d198756fdf0465da23f27ddb720/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2d45b277afdf55bcfdc005c03c0c2f1733aaa1b0">
+        <dex dex="/home/monty/Desktop/ejercicios/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_94351dce809a432e57882a28cdef468214cba5d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/monty/.android/build-cache/f6f86e904df6754d10302c77ae758cf122416b9f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e4efed89c18cda5bbc2309efe84bb4b67e1ef239">
+        <dex dex="/home/monty/Desktop/ejercicios/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_76f19840ddf0e1d5ac227e3496fee5b5aa64c21d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/monty/.android/build-cache/a18efd064ee12cd538f904dd2f5882ff475983c7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="53e8932b1ac8c7dfc35cfeda1f9efbc9822ceaf3">
+        <dex dex="/home/monty/Desktop/ejercicios/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_081e3d21a0021e681c9f589feda91bddfd8fada8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/monty/.android/build-cache/50b3bd050ecbb0b1544dce030f3c16b4dd0fb46f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="82ea5a937ab84229fbd2f3fc8cf2a72cbdf0ee0f">
+        <dex dex="/home/monty/Desktop/ejercicios/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9a1aff549c081b583a64e07d24f9fec38688dd44/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/monty/Desktop/ejercicios/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/monty/Desktop/ejercicios/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_310069973e53fbeb48408c728e3d1d8908918c22/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/monty/.android/build-cache/e38ec8cacef4d68649f81b26f5dd5dc280a135b0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bed98ea7af8c5c4202820875e856dd3eb296e22d">
+        <dex dex="/home/monty/Desktop/ejercicios/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8443961b236d65386fbfaf507545a0c31a55ad32/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/monty/.android/build-cache/ef4d801a04233d77b90f7f27ff6a83b1cbd97e02/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b102f892442929c3457de1ef6a94f5dda3dd8864">
+        <dex dex="/home/monty/Desktop/ejercicios/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c1d99b72291e6f9cd0a1a1dfd1c023ff9a0f374e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/monty/.android/build-cache/66caabd9bcda44bfeca2e625392b7b41bad21300/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8602ab07133e6ee182726fa27588420dba9d6d55">
+        <dex dex="/home/monty/Desktop/ejercicios/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4eb0ed976d2b2258d11c8a800b8b3975890e2a40/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/monty/.android/build-cache/d05aae37b01da26e3aea55b516d6dc3033d6ae52/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5f519b8c692038a47ee404b6ea6b847f6402000c">
+        <dex dex="/home/monty/Desktop/ejercicios/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_034095f924febd6fb399a6909fc005c40cf46ea3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/monty/.android/build-cache/1133043e1e80f45a9463298f08f554399f0b750b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="807751a24cf96566fd8675517c94d8463cf364db">
+        <dex dex="/home/monty/Desktop/ejercicios/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b63a9b11b70d6ff993fa99285f5e3841a702cb3c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/monty/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/monty/Desktop/ejercicios/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_75882ed4a1a40f914cf102fa64c2663deb2b02c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/monty/.android/build-cache/8a33ebc02684c000ccabdbc20c3ecd71832d66cb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1a94a06ec585c9423a3c03bde1f7bf9268f83d66">
+        <dex dex="/home/monty/Desktop/ejercicios/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bbefe3e86ffec2cd330b596bb940a01f82c153c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/monty/.android/build-cache/aaaaeb9f2c300736061c62ea53952da1f301b9ad/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a8655e6077da9526c0c94bf063f1275430ce8574">
+        <dex dex="/home/monty/Desktop/ejercicios/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_536d1611bc1ecdf8156e97d477ecd410acd3b989/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/monty/.android/build-cache/d8686c4cd2f00f0ce1033a1abe6b17bd607feb90/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6e6b94b72d7912a627fb1629c310b2bca9261f06">
+        <dex dex="/home/monty/Desktop/ejercicios/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dcba50a582d856c7ea327a3421fb55291fe140cc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/monty/.android/build-cache/a927d5e9ad9274d0e6a11b150a014614d8cafe9e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="52339832d252da4328c5ffcacbc205268346362a">
+        <dex dex="/home/monty/Desktop/ejercicios/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4dc0751d95e93986753013490d16235418108518/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/monty/Desktop/ejercicios/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c9028272d2062d54cf420858630198827456e9c6">
+        <dex dex="/home/monty/Desktop/ejercicios/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_cea5f6db95e0fd2ae26d54ea6e56bc501f42cf68/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/monty/.android/build-cache/ee8bf853dd83321728206bd84265191f1c19bb55/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/home/monty/Desktop/ejercicios/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a47fd5eb6689099c8a210c791362e5c17e84f039/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/monty/.android/build-cache/96d51d1f943479dba66a0bbaa56f14f5e8fa7ee2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cbb26a4f659b17abc1f75ff735a607aa299697ac">
+        <dex dex="/home/monty/Desktop/ejercicios/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4602072fe8ff03be885511e3c5dac0abe0f13599/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/monty/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.0.0/db09a97f4f0db8892c1a0111a4b966f97920d082/support-annotations-26.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="db09a97f4f0db8892c1a0111a4b966f97920d082">
+        <dex dex="/home/monty/Desktop/ejercicios/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0_18b916eaeef7cab14ca0d00519baa675665092a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/monty/Desktop/ejercicios/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/monty/Desktop/ejercicios/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_310069973e53fbeb48408c728e3d1d8908918c22/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/monty/.android/build-cache/d20e9e6c802eb7a07f8d70ea3ee8a9d5fa0a7c1a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bc9ea2bc291bbebc83f5b160d115c699bddc4e16">
+        <dex dex="/home/monty/Desktop/ejercicios/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2a5c64feb8e5e17b1ef25bafd4469d50cc063471/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/monty/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.3.0/73c49077166faa4c3c0059c5f583d1d7bd1475fe/core-3.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="73c49077166faa4c3c0059c5f583d1d7bd1475fe">
+        <dex dex="/home/monty/Desktop/ejercicios/app/build/intermediates/transforms/dex/debug/folders/1000/10/core-3.3.0_a996f594bab4e7ba79c94cd955c22f42f709121a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/monty/.android/build-cache/c797aa6dbcfc64093b1ee5766c90a67a2430466c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2520dd452fb1f487eba29ccd2d44358f0b8da788">
+        <dex dex="/home/monty/Desktop/ejercicios/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_99c239c1b94fb1686c4764250e065f9bfd02a90b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/monty/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/monty/Desktop/ejercicios/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_004d82645a5529ecf7b0a97ae2fccba02397d0bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/monty/.android/build-cache/a3a877213f396838bf81baf72c7a66d0cd806605/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="643a2fd3bd06c44be5d20efc0ba4ca02036d2c8a">
+        <dex dex="/home/monty/Desktop/ejercicios/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f390c35d284686f870f6c8ab172bb333d7c3df46/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/monty/.android/build-cache/af53e35267e591cd30cfe49fca164fda7772aa34/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bd6a3b6e3c7c584a47479070fb9292a6c7468657">
+        <dex dex="/home/monty/Desktop/ejercicios/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_296921bf456a09b937c906e285433b0353de83d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/monty/.android/build-cache/32c1989c34cfa77f062f17584b456bde87bd5055/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2f552156e824f318819b664ab932f61d12cfa2f4">
+        <dex dex="/home/monty/Desktop/ejercicios/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_abb1b1f6e297ac9dc3f03217b886675a58915ef1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/monty/.android/build-cache/dc224d7df423a6045b36800362c82f0e7338324f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="782d63e5456a49596ef322036691e25c60de3b83">
+        <dex dex="/home/monty/Desktop/ejercicios/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_62f0596050c4bcc93410324d82accce32e74c69d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/monty/.android/build-cache/0a098b3638452e1ede2d3921df1eba732714f3f1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/monty/Desktop/ejercicios/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_934050271417a9a2d8197e31378f8335c09a0341/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/monty/.android/build-cache/43c0816d3955bdb9045d099dfc46a12481f9da9e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/monty/Desktop/ejercicios/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d205d9cd1a795676f4e4a4f7afc4aab6ab6e6cde/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/monty/.android/build-cache/996b14f9dffc9b10c08b30e4397db2d46bb7ff79/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f7b86f1beb2b3625c6a1a5da6b5fc5294b64aea9">
+        <dex dex="/home/monty/Desktop/ejercicios/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cad4761a9614e973c242485a7df093f0520890ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/monty/.android/build-cache/d497727bfa79b7f588b5e0aedbcd5e376ad0662d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="20d6aa9a18ea9833cd2bee95dff7cd303cdb80e4">
+        <dex dex="/home/monty/Desktop/ejercicios/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b431373c1b89a120ddbcb37306dae53f1ee30d12/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/monty/.android/build-cache/423a5d165ad3250bf5947be9a61a313263f861b1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2482bfd874e8b3927f4141105674ad392ff83698">
+        <dex dex="/home/monty/Desktop/ejercicios/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_229067c3d96d5729be198b7fbf37052ce6d67255/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/monty/.android/build-cache/614f964bf6da9a25410dd661e8f6bbc8f82231de/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="db0171d21d064bab7ad72685f3c7df40544b03a8">
+        <dex dex="/home/monty/Desktop/ejercicios/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6592dcb88b862f4c1f9c78c72daa47a95ad738c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/monty/Desktop/ejercicios/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a904ef4f2383575fb29b162bb4701f9c3c523616">
+        <dex dex="/home/monty/Desktop/ejercicios/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_cea5f6db95e0fd2ae26d54ea6e56bc501f42cf68/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/monty/.android/build-cache/5a2ed031bcb4183fb4f9d593456dba05b1533f7d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0d394688dd7030b83dea8eed3fa483410c24afe0">
+        <dex dex="/home/monty/Desktop/ejercicios/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bd8a36a48c89cf4854c566f1fd5a0c5a087302f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/monty/.android/build-cache/9fabe5ef85e5a69c40bb80be9b65eb8b2d0079bd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9a0c96cb2e74d3a6e692d920c9e03326e77f6429">
+        <dex dex="/home/monty/Desktop/ejercicios/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b5175b14607d7c32fe90ce9ac96ab27544d15a51/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/monty/.android/build-cache/dd450009ed693cbf7aa62df09f5b964c9d30fcf3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="252896ce41f2a84a2849e29235e66098be7d12ee">
+        <dex dex="/home/monty/Desktop/ejercicios/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c58b1640948c63621b82d523d39b680dc94c87ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/monty/.android/build-cache/95c2eff1d075688720ec6eef5290e34875e78141/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b8b26b28aae0ba8e2db55ad9fe0ebc770530c5ef">
+        <dex dex="/home/monty/Desktop/ejercicios/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_da11500603ad0e6a1e5feb5fb457a91ccd233586/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/monty/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/home/monty/Desktop/ejercicios/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-applinks-1.4.0_30d3cb55350a08e8e25796e8bc28793ae4e80792/classes.dex" />
+    </item>
+
+</items>
