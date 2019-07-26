@@ -32,5 +32,9 @@ public class Main extends AppCompatActivity {
     public void Video(View v){
         startActivity(new Intent(this, Video.class));
     }
+
+    public void BA(View v){startActivity(new Intent(this, BaseAdapter.class));}
+
+    public void preferences(View v){startActivity(new Intent(this, Preferences.class));}
 }
 

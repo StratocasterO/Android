@@ -28,7 +28,7 @@
                     android:id="@+id/nombre"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="nombre aquí" />
+                    android:hint="nombre aquí" />
             </LinearLayout>
 
             <LinearLayout
@@ -45,7 +45,7 @@
                     android:id="@+id/precio"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="precio aquí" />
+                    android:hint="precio aquí" />
             </LinearLayout>
 
             <Button

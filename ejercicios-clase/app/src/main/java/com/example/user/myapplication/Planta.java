@@ -7,6 +7,12 @@ public class Planta {
     private String name;
     private Float price;
 
+    public Planta(int id, String name, Float price) {
+        this.id = id;
+        this.name = name;
+        this.price = price;
+    }
+
     public int getId() {
         return id;
     }
