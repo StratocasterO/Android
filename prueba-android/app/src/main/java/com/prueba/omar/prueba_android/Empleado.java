@@ -7,8 +7,8 @@ public class Empleado {
 
     public Empleado(String nombre, String edad, String empleado){
         this.nombre = nombre;
-        this.edad = this.edad;
-        this.empleado = this.empleado;
+        this.edad = edad;
+        this.empleado = empleado;
     }
 
     public String getNombre() {
