@@ -1,0 +1,11 @@
+BEGIN TRANSACTION;
+CREATE TABLE IF NOT EXISTS "empleados" (
+	"nombre"	TEXT,
+	"edad"	TEXT,
+	"empleado"	TEXT
+);
+INSERT INTO "empleados" VALUES ('Juanito
+','38','Y');
+INSERT INTO "empleados" VALUES ('Jorge','30','N');
+INSERT INTO "empleados" VALUES ('Rafa','25','Y');
+COMMIT;

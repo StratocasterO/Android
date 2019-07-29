@@ -20,7 +20,7 @@ public class BaseAdapter extends AppCompatActivity {
         MyAdapter adapter = new MyAdapter(plantas);
 
         ListView lv = (ListView) findViewById(R.id.cosa);
-        lv.setAdapter(new MyAdapter(getPlantas()));
+        lv.setAdapter(adapter);
     }
 
     public ArrayList<Planta> getPlantas() {
