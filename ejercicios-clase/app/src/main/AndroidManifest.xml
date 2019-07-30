@@ -3,6 +3,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     package="com.example.user.myapplication">
 
+    <uses-permission android:name="android.permission.INTERNET" />
+
     <application
         android:name=".MyApp"
         android:allowBackup="true"
@@ -12,7 +14,13 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
-        <activity android:name=".Preferences"></activity>
+        <activity android:name=".PruebaAndroid.Prueba" />
+        <activity android:name=".PruebaAndroid.ListViewEmpleados" />
+        <activity android:name=".PruebaAndroid.LoadPrefs" />
+        <activity android:name=".PruebaAndroid.SavePrefs" />
+        <activity android:name=".PeticionPOST" />
+        <activity android:name=".PeticionGET" />
+        <activity android:name=".Preferences" />
         <activity android:name=".BaseAdapter" />
         <activity android:name=".Video" />
         <activity android:name=".Main">

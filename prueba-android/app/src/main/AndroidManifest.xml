@@ -9,11 +9,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
-        android:name=".MyApp">
-        <activity android:name=".ListViewEmpleados"></activity>
-        <activity android:name=".LoadPrefs" />
-        <activity android:name=".SavePrefs" />
-        <activity android:name=".Menu">
+        android:name="com.example.user.myapplication.PruebaAndroid.MyApp">
+        <activity android:name="com.example.user.myapplication.PruebaAndroid.ListViewEmpleados"></activity>
+        <activity android:name="com.example.user.myapplication.PruebaAndroid.LoadPrefs" />
+        <activity android:name="com.example.user.myapplication.PruebaAndroid.SavePrefs" />
+        <activity android:name="com.example.user.myapplication.PruebaAndroid.Menu">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

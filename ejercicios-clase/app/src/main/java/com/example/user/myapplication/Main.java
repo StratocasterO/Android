@@ -5,6 +5,8 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 
+import com.example.user.myapplication.PruebaAndroid.Prueba;
+
 public class Main extends AppCompatActivity {
 
     @Override
@@ -36,5 +38,12 @@ public class Main extends AppCompatActivity {
     public void BA(View v){startActivity(new Intent(this, BaseAdapter.class));}
 
     public void preferences(View v){startActivity(new Intent(this, Preferences.class));}
+
+    public void get(View v){startActivity(new Intent(this, PeticionGET.class));}
+
+    public void post(View v){startActivity(new Intent(this, PeticionPOST.class));}
+
+    public void prueba(View v){startActivity(new Intent(this, Prueba.class));}
+
 }
 

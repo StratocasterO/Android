@@ -1,4 +1,4 @@
-package com.prueba.omar.prueba_android;
+package com.example.user.myapplication.PruebaAndroid;
 
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
@@ -11,6 +11,8 @@ import android.widget.BaseAdapter;
 import android.widget.ListView;
 import android.widget.TextView;
 
+import com.example.user.myapplication.R;
+
 import java.util.ArrayList;
 
 public class ListViewEmpleados extends AppCompatActivity {
@@ -19,7 +21,7 @@ public class ListViewEmpleados extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         getSupportActionBar().hide();
-        setContentView(R.layout.activity_list_view);
+        setContentView(R.layout.activity_list_view2);
 
         ArrayList<Empleado> empleados = leer();
         ListView lv = (ListView) findViewById(R.id.lista);

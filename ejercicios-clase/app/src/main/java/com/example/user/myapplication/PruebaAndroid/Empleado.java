@@ -1,4 +1,4 @@
-package com.prueba.omar.prueba_android;
+package com.example.user.myapplication.PruebaAndroid;
 
 public class Empleado {
     private String nombre;

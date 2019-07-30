@@ -7,4 +7,12 @@
     <string name="menu2">Galería de videos</string>
     <string name="menu3">Galería de fotos</string>
     <string name="menu4">Contacto</string>
+
+    <string name="boton1" translatable="false">Guardar preferencias</string>
+    <string name="boton2" translatable="false">Recuperar preferencias</string>
+    <string name="boton3" translatable="false">Notificaciones</string>
+    <string name="boton4" translatable="false">ListView</string>
+
+    <string name="placeholder" translatable="false">Escribe un valor</string>
+    <string name="boton5" translatable="false">Guardar preferencias</string>
 </resources>

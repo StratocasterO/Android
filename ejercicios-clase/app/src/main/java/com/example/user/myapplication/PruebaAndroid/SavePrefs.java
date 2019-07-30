@@ -1,4 +1,4 @@
-package com.prueba.omar.prueba_android;
+package com.example.user.myapplication.PruebaAndroid;
 
 import android.content.SharedPreferences;
 import android.preference.PreferenceManager;
@@ -8,6 +8,8 @@ import android.view.View;
 import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import com.example.user.myapplication.R;
 
 public class SavePrefs extends AppCompatActivity {
 

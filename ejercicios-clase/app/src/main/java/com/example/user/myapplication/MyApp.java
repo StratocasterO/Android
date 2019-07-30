@@ -13,6 +13,8 @@ public class MyApp extends Application {
     @Override
     public void onCreate() {
         super.onCreate();
+
+        // Base de datos de plantas
         File file = this.getDatabasePath("plantas");
         if (!file.exists()) {
             file.getParentFile().mkdirs();// Esto crea todas las carpetas para que la ruta a la bd exista.
@@ -43,5 +45,36 @@ public class MyApp extends Application {
                 }
             }
         }
+
+        // Base de datos de empleados (prueba android)
+        File file2 = this.getDatabasePath("empleados");
+        if (!file2.exists()) {
+            file2.getParentFile().mkdirs(); // Esto crea todas las carpetas para que la ruta a la bd exista.
+            OutputStream os = null;
+            InputStream is = null;
+            try {
+                is = this.getResources().openRawResource(R.raw.empleados);
+                os = new FileOutputStream(file2);
+                byte[] buffer = new byte[1024];
+                int length;
+                while ((length = is.read(buffer)) > 0) {
+                    os.write(buffer, 0, length);
+                }
+                os.flush();
+            } catch (Throwable t) {//e.printStackTrace();
+            } finally {
+                try {
+                    if (os != null)
+                        os.close();
+                } catch (IOException e) {//e.printStackTrace();
+                }
+                if (is != null) {
+                    try {
+                        is.close();
+                    } catch (IOException e) {//e.printStackTrace();
+                    }
+                }
+            }
+        }
     }
-} // cierre de llaves...
+}

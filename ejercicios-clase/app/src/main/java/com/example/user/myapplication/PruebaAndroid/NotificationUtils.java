@@ -1,4 +1,4 @@
-package com.prueba.omar.prueba_android;
+package com.example.user.myapplication.PruebaAndroid;
 
 import android.annotation.TargetApi;
 import android.app.Notification;

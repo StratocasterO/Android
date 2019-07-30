@@ -1,4 +1,4 @@
-package com.prueba.omar.prueba_android;
+package com.example.user.myapplication.PruebaAndroid;
 
 import android.annotation.TargetApi;
 import android.app.Notification;
@@ -8,7 +8,9 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 
-public class Menu extends AppCompatActivity {
+import com.example.user.myapplication.R;
+
+public class Prueba extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
