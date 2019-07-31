@@ -14,6 +14,9 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
+        <activity android:name=".Peticiones_menu"></activity>
+        <activity android:name=".PeticionPOSTretrofit" />
+        <activity android:name=".PeticionGETretrofit" />
         <activity android:name=".PruebaAndroid.Prueba" />
         <activity android:name=".PruebaAndroid.ListViewEmpleados" />
         <activity android:name=".PruebaAndroid.LoadPrefs" />
