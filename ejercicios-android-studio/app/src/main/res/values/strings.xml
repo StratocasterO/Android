@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hola mundo!</string>
+    <string name="app_name">EJERCICIOS</string>
+
+    <string name="pablomonteserin">Pablo Monteserín</string>
+    <string name="menu1">Acerca de mí</string>
+    <string name="menu2">Galería de videos</string>
+    <string name="menu3">Galería de fotos</string>
+    <string name="menu4">Contacto</string>
+    <string name="facebook_app_id">111992449567702</string>
+    <string name="fb_login_protocol_scheme">fb111992449567702</string>
+    <string name="title_activity_navigation_drawer">NavigationDrawer</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

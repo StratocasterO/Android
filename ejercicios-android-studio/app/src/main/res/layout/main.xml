@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="irALayouts"
+        android:text="Layouts" />
+
+    <Button
+        android:id="@+id/button112"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="irAAnimatium"
+        android:text="Animatium" />
+
+    <Button
+        android:id="@+id/button16"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="irAStyles"
+        android:text="Estilos" />
+
+
+    <Button
+        android:id="@+id/button19"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="irADialog"
+        android:text="Dialog" />
+    <Button
+        android:id="@+id/button129"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="irANotificaciones"
+        android:text="Notificaciones" />
+
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="irAMultimedia"
+        android:text="Multimedia" />
+
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="irAItemList"
+        android:text="ItemList" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="irAAlmacenamiento"
+        android:text="Almacenamiento" />
+
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="irAMapas"
+        android:text="Mapas" />
+
+    <Button
+        android:id="@+id/button17"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="irADraw"
+        android:text="Draw" />
+
+    <Button
+        android:id="@+id/button6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="irAJobScheduler"
+        android:text="Job Scheduler" />
+
+    <Button
+        android:id="@+id/button64"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="irAXMLJSON"
+        android:text="XML y JSON" />
+
+    <Button
+        android:id="@+id/button644"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="irALogin"
+        android:text="Login" />
+
+
+</LinearLayout>
+</ScrollView>

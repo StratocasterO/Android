@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    	<string name="app_name">EXERCISES</string>
+	<string name="pablomonteserin">Pablo Monteserín</string>
+	<string name="menu1">About me</string>
+	<string name="menu2">Video Gallery</string>
+	<string name="menu3">Foto Gallery</string>
+	<string name="menu4">Contact</string>
+</resources>
