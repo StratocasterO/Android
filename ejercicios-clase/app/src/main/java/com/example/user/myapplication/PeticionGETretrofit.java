@@ -1,10 +1,12 @@
 package com.example.user.myapplication;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.View;
+import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
+import android.widget.ListAdapter;
 import android.widget.ListView;
 import android.widget.Toast;
 
@@ -40,7 +42,6 @@ public class PeticionGETretrofit extends AppCompatActivity {
                 .build();
 
         OmarAPI api = builder.create(OmarAPI.class);
-        //api.peticionPost("Pablo", "Monteserrín").enqueue(new Callback<ResponseBody>() {
         api.peticionGET().enqueue(new Callback<ResponseBody>() {
 
             @Override
@@ -63,6 +64,9 @@ public class PeticionGETretrofit extends AppCompatActivity {
                 } catch (IOException e) {
                     e.printStackTrace();
                 }
+
+                ListView lv = findViewById(R.id.personas);
+                setListViewHeightBasedOnChildren(lv);
             }
 
             @Override
@@ -85,5 +89,25 @@ public class PeticionGETretrofit extends AppCompatActivity {
                 return lista;
             }
         });
+    }
+
+    // Método para adaptar la altura del ListView al contenido
+    public static void setListViewHeightBasedOnChildren(ListView listView) {
+        ListAdapter listAdapter = listView.getAdapter();
+        if (listAdapter == null) {
+            return;
+        }
+
+        int totalHeight = 0;
+        for (int i = 0; i < listAdapter.getCount(); i++) {
+            View listItem = listAdapter.getView(i, null, listView);
+            listItem.measure(0, 0);
+            totalHeight += listItem.getMeasuredHeight();
+        }
+
+        ViewGroup.LayoutParams params = listView.getLayoutParams();
+        params.height = totalHeight + (listView.getDividerHeight() * (listAdapter.getCount() - 1));
+        listView.setLayoutParams(params);
+        listView.requestLayout();
     }
 }

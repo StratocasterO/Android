@@ -28,4 +28,8 @@ public class Peticiones_menu extends AppCompatActivity {
     public void postR(View v) {
         startActivity(new Intent(this, PeticionPOSTretrofit.class));
     }
+
+    public void foto(View v) {
+        startActivity(new Intent(this, SubirImagen.class));
+    }
 }

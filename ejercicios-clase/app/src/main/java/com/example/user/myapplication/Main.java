@@ -35,15 +35,23 @@ public class Main extends AppCompatActivity {
         startActivity(new Intent(this, Video.class));
     }
 
-    public void BA(View v){startActivity(new Intent(this, BaseAdapter.class));}
+    public void BA(View v) {
+        startActivity(new Intent(this, BaseAdapter.class));
+    }
 
-    public void preferences(View v){startActivity(new Intent(this, Preferences.class));}
+    public void preferences(View v) {
+        startActivity(new Intent(this, Preferences.class));
+    }
 
     public void peticiones(View v) {
         startActivity(new Intent(this, Peticiones_menu.class));
     }
 
     public void prueba(View v){startActivity(new Intent(this, Prueba.class));}
+
+    public void mapas(View v) {
+        startActivity(new Intent(this, Localizacion.class));
+    }
 
 }
 

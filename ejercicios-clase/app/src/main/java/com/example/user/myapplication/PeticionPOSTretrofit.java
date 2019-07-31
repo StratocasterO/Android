@@ -3,8 +3,6 @@ package com.example.user.myapplication;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
-import android.widget.ArrayAdapter;
-import android.widget.ListView;
 import android.widget.Toast;
 
 import org.json.JSONArray;
@@ -34,13 +32,13 @@ public class PeticionPOSTretrofit extends AppCompatActivity {
 
     public void hacerPeticion() {
         Retrofit builder = new Retrofit.Builder()
-                .baseUrl("https://swapi.co/api/")
+                .baseUrl("https://www.pablomonteserin.com/")
                 .addConverterFactory(GsonConverterFactory.create())
                 .build();
 
         OmarOlmedoAPI api = builder.create(OmarOlmedoAPI.class);
         //api.peticionPost("Pablo", "Monteserín").enqueue(new Callback<ResponseBody>() {
-        api.peticionPOST("Pablo", "Monteserín").enqueue(new Callback<ResponseBody>() {
+        api.peticionPOST("Omar", "Olmedo").enqueue(new Callback<ResponseBody>() {
 
             @Override
             public void onResponse(Call<ResponseBody> call, Response<ResponseBody> response) {
@@ -48,17 +46,6 @@ public class PeticionPOSTretrofit extends AppCompatActivity {
                     String respuesta = response.body().string();
                     Log.d("RESPUESTA", respuesta);
                     Toast.makeText(getBaseContext(), respuesta, Toast.LENGTH_LONG).show();
-
-                    JSONObject jObject = null;
-                    try {
-                        jObject = new JSONObject(respuesta);
-                        JSONArray jArray = jObject.getJSONArray("results");
-                        List<String> lista = fromArrayToList(jArray);
-                        ListView lv = findViewById(R.id.personas);
-                        lv.setAdapter(new ArrayAdapter(getBaseContext(), android.R.layout.simple_list_item_1, lista));
-                    } catch (JSONException e) {
-                        e.printStackTrace();
-                    }
                 } catch (IOException e) {
                     e.printStackTrace();
                 }

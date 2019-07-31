@@ -3,7 +3,11 @@
     xmlns:tools="http://schemas.android.com/tools"
     package="com.example.user.myapplication">
 
-    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.INTERNET" /> <!-- Localización usando la red WI-FI: -->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" /> <!-- Localización usando el GPS -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
 
     <application
         android:name=".MyApp"
@@ -13,8 +17,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true"
         tools:ignore="GoogleAppIndexingWarning">
-        <activity android:name=".Peticiones_menu"></activity>
+        <activity android:name=".Localizacion"></activity>
+        <activity android:name=".SubirImagen" />
+        <activity android:name=".Peticiones_menu" />
         <activity android:name=".PeticionPOSTretrofit" />
         <activity android:name=".PeticionGETretrofit" />
         <activity android:name=".PruebaAndroid.Prueba" />
@@ -38,6 +45,10 @@
         <activity android:name=".BaseDatos" />
         <activity android:name=".PasarContenido" />
         <activity android:name=".Botones" />
+
+        <meta-data
+            android:name="com.google.android.maps.v2.API_KEY"
+            android:value="AIzaSyA005cnLuxr03A1ZygrJpOHjU1PtRp4ooU" />
     </application>
 
 </manifest>
