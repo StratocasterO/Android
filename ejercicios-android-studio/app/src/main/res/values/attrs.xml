@@ -1,5 +1,0 @@
-<resources>
-    <declare-styleable name="Monteserin_circle">
-        <attr name="monteserin_color" format="color" />
-    </declare-styleable>
-</resources>
