@@ -59,7 +59,6 @@ public class Mapa extends AppCompatActivity implements OnMapReadyCallback {
 			}
 		};
 
-
 		Criteria criteria = new Criteria();
 		criteria.setAccuracy(Criteria.ACCURACY_MEDIUM);
 

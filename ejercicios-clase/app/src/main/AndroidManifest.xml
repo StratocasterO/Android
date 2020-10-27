@@ -46,19 +46,18 @@
         <activity android:name=".Botones" />
         <meta-data
             android:name="com.google.android.maps.v2.API_KEY"
-            android:value="AIzaSyA005cnLuxr03A1ZygrJpOHjU1PtRp4ooU" />
+			android:value="not-a-key" />
         <meta-data
             android:name="com.google.android.gms.version"
             android:value="@integer/google_play_services_version" />
-
         <uses-library android:name="com.google.android.maps" />
         <uses-library
             android:name="org.apache.http.legacy"
             android:required="false" />
-    </application> <!-- Localización usando la red WI-FI: -->
+    </application>
     <uses-feature
         android:glEsVersion="0x00020000"
-        android:required="true" /> <!-- Localización usando el GPS -->
+        android:required="true" />
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
